@@ -1,0 +1,41 @@
+.bg-container {
+    background-color: greenyellow;
+    height: 100vh;
+    border: 2px solid black;
+    
+
+}
+
+
+.card {
+    height: 50px;
+    width: 50px;
+    border-radius: 8px;
+    
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+.img1 {
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+.cimag1 {
+    position: relative;
+    top: 30px;
+    left: 400px;
+}
+
+
+
+.head {
+    margin-left: 360px;
+    margin-top: 80px;
+    text-decoration: underline;
+    color: red;
+}
